@@ -1,2 +1,2 @@
-# PennState-Hum
-Gofundme scraper
+## Read me
+Gofundme scraper and consecutive analysis of the data
